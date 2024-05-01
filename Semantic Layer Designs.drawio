@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T16:30:05.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YlvYyryFsVLzGOJiaNP_" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-01T16:49:44.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="p9ddnlphQg02-P2LGJ7_" version="24.2.1" type="github" pages="4">
   <diagram id="AtjFC_fWx-0KVMYcTafF" name="USL Features">
-    <mxGraphModel dx="1008" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="USL Architecture" id="IX14Sh2FknliUfe82c5O">
-    <mxGraphModel dx="1858" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ijw7Kd97sjJbxNfHW3J" name="Static Datablending vs Dynamic Data Blending">
-    <mxGraphModel dx="2022" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1645" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1597,6 +1597,44 @@
             <mxPoint x="139.5" y="4785" as="sourcePoint" />
             <mxPoint x="274.5" y="4690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4NbmkzuX8ORbff35G53A" name="Page-4">
+    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="130" width="430" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-15" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#10739E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry width="430" height="409.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-16" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#F2931E;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry x="61.428571428571445" width="307.1428571428571" height="292.8571428571428" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-17" value="" style="triangle;direction=north;strokeWidth=4;html=1;fillColor=#AE4132;strokeColor=#ffffff;shadow=0;fontSize=10;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;spacing=10;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry x="122.85714285714289" width="184.28571428571425" height="175.7142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-19" value="Static Data Blending" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=2;fillStyle=solid;fontSize=16;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry x="122.85714285714289" y="316.28571428571416" width="196.57142857142856" height="46.85714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-20" value="Dynamic Data Blending" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=2;fillStyle=solid;fontSize=16;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry x="122.85714285714289" y="210.8571428571428" width="196.57142857142856" height="46.85714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-23" value="Intelligent&amp;nbsp;&lt;div&gt;Data Blending&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=none;strokeColor=default;strokeWidth=2;fillStyle=solid;fontSize=16;" vertex="1" parent="2PvLnzi-6gk5RrBn2mGP-24">
+          <mxGeometry x="176.2295081967213" y="92.04081632653057" width="77.54098360655739" height="58.57142857142855" as="geometry" />
+        </mxCell>
+        <mxCell id="2PvLnzi-6gk5RrBn2mGP-35" value="&lt;b&gt;A static data blending combines data from multiple tables to add additional information to the original dataset by blending the data from other tables.&lt;/b&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;As a result, all the tables are joined, and a wide table is created regardless of the chart level metrics used by the users&lt;div style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_cnSJ-URpA8FfvA6an9B-1" value="&lt;div style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;b&gt;A unified semantic layer joins data tables on the basis of dashboard charts ( dimensions &amp;amp; metrics)&lt;/b&gt;, Dynamic blending ensures to check the chart level dimensions and metrics at table level and decides the joins while rendering the individual charts, thereby improving performance by joining only the required tables and reducing query computation and query response time.&lt;div style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="brfZMSeU_dnlh9BhLswh-1" value="&lt;div style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;b&gt;A unified semantic layer joins data tables on the basis of user inputs&lt;/b&gt;, chart dimensions or metrics at runtime, thereby improving performance by joining only the required tables and reducing query computation and query response time.&lt;div style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="280" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
